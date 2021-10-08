@@ -17,4 +17,7 @@
 
 * [Sparse and Continuous Attention Mechanisms](https://arxiv.org/pdf/2006.07214v3.pdf)(2020)
 
-> 
+
+* [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf)(2021)
+
+> 超越了Informer
