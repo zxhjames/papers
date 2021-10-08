@@ -14,3 +14,7 @@
 * [∞-former: Infinite Memory Transformer](https://arxiv.org/pdf/2109.00301.pdf)(2021)
 
 > deepmind提出的对transformer-XL的改进,加入了一个LTM(序列记忆存储器)来优化transformer在长序列上预测的性能
+
+* [Sparse and Continuous Attention Mechanisms](https://arxiv.org/pdf/2006.07214v3.pdf)(2020)
+
+> 
