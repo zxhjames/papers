@@ -3,6 +3,8 @@
 
 ## transformer家族
 
+### 国外论文
+
 * [attention is all you need](https://arxiv.org/pdf/1706.03762v5.pdf)(2017)
 
 > 谷歌最早的提出该架构的论文，使用多头自注意力机制代替了传统RNN以及Auto Encoder的方式
@@ -25,3 +27,8 @@
 * [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)(2017)
 
 > 动态路由,胶囊神经网络
+
+### 国内论文
+* [基于Transformer重建的时序数据异常检测与关系提取](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JSJC202102010&uniplatform=NZKPT&v=g9BjGJf5ZLWE9o40R5TjbhtmjfoFxP542ZWNV%25mmd2FWpFkTv1AbENIJQjtHOFJ4nDUKo)(2020)
+
+> 国内论文,比较简单列举了transformer在异常检测的应用
