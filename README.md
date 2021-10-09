@@ -21,3 +21,7 @@
 * [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf)(2021)
 
 > 超越了Informer的效果，提出了深度分解机制,并且用自相关代替了原来的self-attention,相比于Informer的效果更好
+
+* [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)(2017)
+
+> 动态路由,胶囊神经网络
