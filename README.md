@@ -22,7 +22,7 @@
 
 * [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf)(2021)
 
-> 超越了Informer的效果，提出了深度分解机制,并且用自相关代替了原来的self-attention,相比于Informer的效果更好
+> 清华出品，超越了Informer的效果，提出了深度分解机制,并且用自相关代替了原来的self-attention,相比于Informer的效果更好
 
 * [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)(2017)
 
@@ -31,6 +31,11 @@
 * [OadTR: Online Action Detection with Transformers](https://arxiv.org/pdf/2106.11149.pdf)(2021)
 
 > 达摩院将transformer用在视频流异常检测上的一种方法
+
+* [Fastformer: Additive Attention Can Be All You Need](https://arxiv.org/pdf/2108.09084.pdf)(2021)
+
+> 清华出品,在速度上相比于传统transformer有了极大的提升
+
 
 ### 国内论文
 * [基于Transformer重建的时序数据异常检测与关系提取](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JSJC202102010&uniplatform=NZKPT&v=g9BjGJf5ZLWE9o40R5TjbhtmjfoFxP542ZWNV%25mmd2FWpFkTv1AbENIJQjtHOFJ4nDUKo)(2020)
