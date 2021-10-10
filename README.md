@@ -1,7 +1,8 @@
 # papers
-一些AI方面paper整理
+> some papers about timeSeries operation,collected by Xianghao Zhan,welcome star hereThanks♪(･ω･)ﾉ
 
-## transformer家族
+
+## **transformer**
 
 ### 国外论文
 
@@ -41,3 +42,13 @@
 * [基于Transformer重建的时序数据异常检测与关系提取](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JSJC202102010&uniplatform=NZKPT&v=g9BjGJf5ZLWE9o40R5TjbhtmjfoFxP542ZWNV%25mmd2FWpFkTv1AbENIJQjtHOFJ4nDUKo)(2020)
 
 > 国内论文,比较简单列举了transformer在异常检测的应用
+
+
+
+
+## 异常检测相关论文
+
+* [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148v2.pdf)(2016)
+
+> LSTM在异常检测上的应用,论文解决的问题是使用基于LSTM的自编码器结构训练，然后在测试集中测试一个点是异常的可能性，对于每个点，将会得到一个异常点的分数，代表着出现异常的可能性
+
