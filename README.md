@@ -28,6 +28,10 @@
 
 > 动态路由,胶囊神经网络
 
+* [OadTR: Online Action Detection with Transformers](https://arxiv.org/pdf/2106.11149.pdf)(2021)
+
+> 达摩院将transformer用在视频流异常检测上的一种方法
+
 ### 国内论文
 * [基于Transformer重建的时序数据异常检测与关系提取](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JSJC202102010&uniplatform=NZKPT&v=g9BjGJf5ZLWE9o40R5TjbhtmjfoFxP542ZWNV%25mmd2FWpFkTv1AbENIJQjtHOFJ4nDUKo)(2020)
 
