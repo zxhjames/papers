@@ -52,3 +52,8 @@
 
 > LSTM在异常检测上的应用,论文解决的问题是使用基于LSTM的自编码器结构训练，然后在测试集中测试一个点是异常的可能性，对于每个点，将会得到一个异常点的分数，代表着出现异常的可能性
 
+* [Detecting spacecraft anomalies using LSTMs and
+nonparametric dynamic thresholding](https://arxiv.org/pdf/1802.04431.pdf)(2018)
+
+> 用了**NASA航天器数据集**的异常检测论文
+
