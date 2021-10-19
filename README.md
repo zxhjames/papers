@@ -37,6 +37,9 @@
 
 > 清华出品,在速度上相比于传统transformer有了极大的提升
 
+* [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509v1.pdf)
+
+> 鼓励用稀疏注意力机制生成长序列
 
 ### 国内论文
 * [基于Transformer重建的时序数据异常检测与关系提取](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JSJC202102010&uniplatform=NZKPT&v=g9BjGJf5ZLWE9o40R5TjbhtmjfoFxP542ZWNV%25mmd2FWpFkTv1AbENIJQjtHOFJ4nDUKo)(2020)
