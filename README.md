@@ -73,6 +73,5 @@ nonparametric dynamic thresholding](https://arxiv.org/pdf/1802.04431.pdf)(2018)
 
 * [A Text-Centered Shared-Private Framework via Cross-Modal Prediction for Multimodal Sentiment Analysis](https://aclanthology.org/2021.findings-acl.417.pdf)
 
-
 > 基于跨模态预测的多模态情感分类
 
