@@ -53,6 +53,17 @@
 
 > 效果超过了lstNet
 
+* [AdaRNN: Adaptive Learning and Forecasting of Time Series](https://arxiv.org/pdf/2108.04443v2.pdf)
+
+> 将迁移学习应用到时序预测中
+
+
+* [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363v3.pdf)
+
+> google的基于transformer的多尺度时序预测
+
+
+
 
 ### 国内论文
 * [基于Transformer重建的时序数据异常检测与关系提取](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JSJC202102010&uniplatform=NZKPT&v=g9BjGJf5ZLWE9o40R5TjbhtmjfoFxP542ZWNV%25mmd2FWpFkTv1AbENIJQjtHOFJ4nDUKo)(2020)
